@@ -8,7 +8,7 @@ Os dados de entrada e de saída correspondentes foram divididos em duas classes,
 
 Criou-se uma árvore binária de classificação com os dados de treinamento, a fim de facilitar a elucidação das regras que compõem a classificação, a mesma foi podada de modo a limitar ao no máximo dez folhas. Dessa forma são mantidas apenas as regras que geram estas as ______
 
-A árvore binária construída, passa a ser representada no formato de um grafo orientado em arquivo ".dot" e, posteriormente, é desenhado como uma imagem no formato png (veja o arquivo tree.png no diretório raiz).
+A árvore binária construída, passa a ser representada no formato de um grafo orientado em arquivo ".dot" e, posteriormente, é desenhado como uma imagem no formato png (veja o arquivo tree.png no diretório raiz). Por fim, as regras obtidas pela árvore que definem a classificação estão dispostas no arquivo rules.txt no diretório raiz.
 
 
 
